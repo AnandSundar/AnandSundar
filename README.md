@@ -11,6 +11,7 @@ I'm passionate about Software development and cybersecurity and love tackling co
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/AnandSundar/threat-hunting-scenario-tor)**
+- **[Threat Hunt: Cargo Hold](https://github.com/AnandSundar/Threat-Hunt-Cargo-Hold)**
 
 <hr/>
 
