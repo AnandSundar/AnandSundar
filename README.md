@@ -2,6 +2,8 @@
 
 I'm passionate about Software development and cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
+### 🤖 Agentic AI Engineer Projects 🤖
+- **[Cyber AI Agent: Log Analysis](https://github.com/AnandSundar/Cyber-AI-Agent)**
 
 ## ⚠️ Vulnerability Management Projects
 
@@ -12,7 +14,6 @@ I'm passionate about Software development and cybersecurity and love tackling co
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/AnandSundar/threat-hunting-scenario-tor)**
 - **[Threat Hunt: Cargo Hold](https://github.com/AnandSundar/Threat-Hunt-Cargo-Hold)**
-- **[Cyber AI Agent: Log Analysis](https://github.com/AnandSundar/Cyber-AI-Agent)**
 
 <hr/>
 
