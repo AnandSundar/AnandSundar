@@ -1,3 +1,28 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hey!+👋;+I'm+Anand+Sundar!;" />
+</h1>
+
+<h3 align="center">👋 Software Engineering | Agentic AI Security Engineer | GRC Engineer | Cybersecurity Analyst | Threat Detection & Vulnerability Management </h3>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/anandsundar96"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   
+
+![Visitors](https://komarev.com/ghpvc/?username=TrevinoParker&label=Visitors&color=brightgreen&style=for-the-badge)
+
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+
+---
+
 # <a href="https://www.linkedin.com/in/anandsundar96/">Anand Sundar</a>'s Software Engineering, IT and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about Software development and cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
