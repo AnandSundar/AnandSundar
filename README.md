@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hey!+👋;+I'm+Anand+Sundar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋;+I'm+Anand+Sundar!;" />
 </h1>
 
 <h3 align="center">👋 Software Engineering | Agentic AI Security Engineer | GRC Engineer | Cybersecurity Analyst | Threat Detection & Vulnerability Management </h3>
