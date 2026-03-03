@@ -28,6 +28,8 @@
 I'm passionate about Software development and cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 ### 🤖 Agentic AI Engineer Projects 🤖
+
+- **[Agentic AI: Attack Surface Monitor](https://github.com/AnandSundar/agentic-ai-attack-surface-monitor)**
 - **[Agentic AI: VaultHound - Secrets & Credentials Leak Hunter](https://github.com/AnandSundar/vaulthound)**
 - **[Agentic AI: Email Phishing - PhishSentinel](https://github.com/AnandSundar/PhishSentinel)**
 - **[Agentic AI: BugBounty OPS](https://github.com/AnandSundar/BountyOps)**
