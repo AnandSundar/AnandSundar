@@ -28,7 +28,8 @@
 I'm passionate about Software development and cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 ### 🤖 Agentic AI Engineer Projects 🤖
-- **[BugBounty OPS](https://github.com/AnandSundar/BountyOps)**
+- **[Agentic AI: PhishSentinel](https://github.com/AnandSundar/PhishSentinel)**
+- **[Agentic AI: BugBounty OPS](https://github.com/AnandSundar/BountyOps)**
 - **[Cyber AI Agent: Log Analysis](https://github.com/AnandSundar/Cyber-AI-Agent)**
 - **[2026 OWASP Top 10: Prompt Injection Scanner (LLM01:2025)](https://github.com/AnandSundar/Prompt-Injection-Scanner)**
 
