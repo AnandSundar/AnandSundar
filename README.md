@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋;+I'm+Anand+Sundar!;" />
 </h1>
 
-<h3 align="center">👋 Software Engineering | Agentic AI Security Engineer | GRC Engineer | Cybersecurity Analyst | Threat Detection & Vulnerability Management </h3>
+<h3 align="center">👋 Software Engineer | Agentic AI Security Engineer | GRC Engineer | Cybersecurity Analyst | Threat Detection & Vulnerability Management </h3>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/anandsundar96"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
