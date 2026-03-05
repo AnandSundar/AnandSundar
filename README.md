@@ -36,6 +36,10 @@ I'm passionate about Software development and cybersecurity and love tackling co
 - **[Cyber AI Agent: Log Analysis](https://github.com/AnandSundar/Cyber-AI-Agent)**
 - **[2026 OWASP Top 10: Prompt Injection Scanner (LLM01:2025)](https://github.com/AnandSundar/Prompt-Injection-Scanner)**
 
+🚨 GRC Engineer Projects 🚨
+
+- **[NIST CSF Dashboard](https://github.com/AnandSundar/aws-nist-csf-compliance)**
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/AnandSundar/vulnerability-management-program)**
