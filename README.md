@@ -39,6 +39,7 @@ I'm passionate about Software development and cybersecurity and love tackling co
 🚨 GRC Engineer Projects 🚨
 
 
+- **[IAM ORG SYNC - AI-Powered IAM Org-Sync Engine](https://github.com/AnandSundar/iam-orgsync)**
 - **[Compliance Harvester - GDPR & SOC2](https://github.com/AnandSundar/compliance-harvester)**
 - **[NIST CSF Dashboard](https://github.com/AnandSundar/aws-nist-csf-compliance)**
 
