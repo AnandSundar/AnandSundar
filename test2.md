@@ -9,7 +9,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00FFD1&center=true&vCenter=true&width=650&lines=🤖+Agentic+AI+Security+Engineer;🔐+GRC+%26+Compliance+Automation+Architect;☁️+AWS+%7C+Azure+%7C+Cloud-Native+Security;🧠+Turning+AI+into+an+Intelligent+Defense+Layer;🛡️+Securing+LLMs+Against+the+Threats+of+Tomorrow" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00FFD1&center=true&vCenter=true&width=650&lines=🤖+Agentic+AI+Security+Engineer;🔐+GRC+%26+Compliance+Automation+Architect;☁️+AWS+%7C+Azure+%7C+Cloud-Native+Security;🧠+Turning+AI+into+an+Intelligent+Defense+Layer;🛡️+Securing+LLMs+Against+the+Threats+of+Tomorrow" />
 </p>
 
 <p align="center">
@@ -146,10 +146,13 @@ I sit at the intersection of **Agentic AI**, **Cybersecurity**, and **Compliance
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnandSundar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&title_color=00FFD1&icon_color=00FFD1" height="160"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AnandSundar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandSundar&theme=tokyonight&hide_border=true&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1" height="160"/>
 </p>
 
