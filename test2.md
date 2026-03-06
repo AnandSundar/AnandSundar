@@ -149,8 +149,11 @@ I sit at the intersection of **Agentic AI**, **Cybersecurity**, and **Compliance
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnandSundar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnandSundar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&title_color=00FFD1&icon_color=00FFD1" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandSundar&theme=tokyonight&hide_border=true&layout=compact&title_color=00FFD1" height="160"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandSundar&theme=tokyonight&hide_border=true&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1" height="160"/>
