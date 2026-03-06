@@ -159,15 +159,20 @@ I sit at the intersection of **Agentic AI**, **Cybersecurity**, and **Compliance
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnandSundar&theme=tokyo-night&hide_border=true&color=00FFD1&line=00FFD1&point=ffffff" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Security-Expert-00FFD1?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/GRC%20Automation-Expert-00FFD1?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Threat%20Hunting-Advanced-0078D4?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Cloud%20Security-Advanced-0078D4?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Python%20%7C%20Go-Proficient-6C63FF?style=for-the-badge&labelColor=0d1117"/>
+</p>
+
+
 <!-- Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandSundar&theme=tokyonight&hide_border=true&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1" height="160"/>
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandSundar&theme=tokyonight&hide_border=true&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1" height="160"/>
-</p>
 
 ---
 
