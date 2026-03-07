@@ -58,6 +58,7 @@ I sit at the intersection of **Agentic AI**, **Cybersecurity**, and **Compliance
 
 ### 🛡️ GRC & Compliance Automation
 
+- **[HIPAA Sentinel](https://github.com/AnandSundar/hipaa-sentinel)** — Automated HIPAA Security Rule (§164.312) gap assessments for AWS environments
 - **[CCM Engine](https://github.com/AnandSundar/ccm-engine)** — Continuous Control Monitoring system with AI-driven alerts when compliance posture drifts
 - **[IAM Org Sync](https://github.com/AnandSundar/iam-orgsync)** — Intelligent IAM access sync engine with real-time drift detection across org boundaries
 - **[Compliance Harvester](https://github.com/AnandSundar/compliance-harvester)** — GDPR & SOC 2 evidence harvesting pipeline built for audit-readiness at enterprise scale
