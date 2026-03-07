@@ -155,9 +155,9 @@ I sit at the intersection of **Agentic AI**, **Cybersecurity**, and **Compliance
 </p>
 
 <!-- Activity Graph -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnandSundar&theme=tokyo-night&hide_border=true&color=00FFD1&line=00FFD1&point=ffffff" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Security-Expert-00FFD1?style=for-the-badge&labelColor=0d1117"/>
