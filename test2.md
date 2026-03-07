@@ -13,6 +13,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Full%20Time%20%7C%20Contract-00FFD1?style=for-the-badge&labelColor=0d1117&logo=checkmark&logoColor=00FFD1"/>
   <a href="https://linkedin.com/in/anandsundar96">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -24,6 +25,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=AnandSundar&label=Profile+Views&color=00FFD1&style=for-the-badge"/>
 </p>
+
 
 ---
 
