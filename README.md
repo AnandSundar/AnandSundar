@@ -33,7 +33,7 @@
 
 > *I engineer AI-powered security systems that think, detect, and respond — so humans don't have to chase every alert.*
 
-I sit at the intersection of **Agentic AI**, **Cybersecurity**, and **Compliance Engineering**. My work focuses on three core areas:
+I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cybersecurity**, and **Compliance Engineering**. My work focuses on three core areas:
 
 🤖 &nbsp;**AI Security** — Securing LLMs and multi-agent systems against prompt injection, model poisoning, and adversarial attacks using OWASP LLM Top 10 frameworks.
 
