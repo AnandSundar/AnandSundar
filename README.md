@@ -47,6 +47,8 @@ I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cyberse
 
 ### 🤖 Agentic AI Security
 
+
+- **[MindBridge AI Operations Hub](https://github.com/AnandSundar/MindBridge-AI-Operations-Hub)** — Automating the busywork of mental healthcare — so clinicians can focus on people, not paperwork.
 - **[Attack Surface Monitor](https://github.com/AnandSundar/agentic-ai-attack-surface-monitor)** — Real-time AI agent that continuously maps and scores attack surfaces before attackers find them
 - **[VaultHound](https://github.com/AnandSundar/vaulthound)** — Autonomous credential and secrets leak hunter across git repos, CI/CD pipelines, and cloud configs
 - **[PhishSentinel](https://github.com/AnandSundar/PhishSentinel)** — LLM-powered phishing detection engine with automated threat classification and triage
