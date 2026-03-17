@@ -62,6 +62,7 @@ I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cyberse
 ### 🛡️ GRC & Compliance Automation
 
 
+- **[AWS Automated Access Review](https://github.com/AnandSundar/aws_automated_access_review)** — Automated IAM access reviews, AI-powered reports, deployed in one command.
 - **[Trust Ledger - 1Password](https://github.com/AnandSundar/trust-ledger)** — Continuous Compliance Engine for Modern Infrastructure
 - **[HIPAA Sentinel](https://github.com/AnandSundar/hipaa-sentinel)** — Automated HIPAA Security Rule (§164.312) gap assessments for AWS environments
 - **[CCM Engine](https://github.com/AnandSundar/ccm-engine)** — Continuous Control Monitoring system with AI-driven alerts when compliance posture drifts
