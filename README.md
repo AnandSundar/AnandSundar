@@ -61,6 +61,8 @@ I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cyberse
 
 ### 🛡️ GRC & Compliance Automation
 
+
+- **[AWS Inactive Key Rotation Auditor](https://github.com/AnandSundar/AWS-Inactive-Key-Rotation-Audit)** — Tool that finds your stale AWS keys before an attacker does.
 - **[AWS Password Policy Auditor](https://github.com/AnandSundar/aws-password-policy-auditor)** — Compliance isn't a checklist — it's a system I engineer.
 - **[AWS Automated Access Review](https://github.com/AnandSundar/aws_automated_access_review)** — Automated IAM access reviews, AI-powered reports, deployed in one command.
 - **[Trust Ledger - 1Password](https://github.com/AnandSundar/trust-ledger)** — Continuous Compliance Engine for Modern Infrastructure
