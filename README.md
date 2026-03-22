@@ -87,6 +87,7 @@ I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cyberse
 ### Mainframe Programming - IBM Z/OS
 
 
+- **[IBM Z/OS Mainframe Scripting](https://github.com/AnandSundar/ibm-z-uss2-mainframe-scripting)** — While everyone else learned the cloud, I learned what the cloud runs on.
 - **[IBM Z/OS JCL Debugger](https://github.com/AnandSundar/ibm-zos-jcl-debugger)** — From CC 0008 to CC 0000 — debugging enterprise JCL on IBM z/OS so production never stops.
 - **[IBM Z Xplore REXX](https://github.com/AnandSundar/rexx1-ibm-zxplore)** — Most engineers avoid mainframes. I ran interactive REXX programs on one from my laptop.
 - **[IBM Z Xplore CODE1 — Python on IBM z/OS Mainframe](https://github.com/AnandSundar/Python-on-IBM-z-OS-Mainframe)** — Enterprise Python development on the platform that runs the world — because cloud isn't the only game in town.
