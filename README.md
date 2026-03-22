@@ -86,6 +86,8 @@ I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cyberse
 
 ### Mainframe Programming - IBM Z/OS
 
+
+- **[IBM Zxplore Files1 Mainframe Datasets](https://github.com/AnandSundar/ibm-zxplore-files1-mainframe-datasets)** — From VS Code to IBM Z — mastering z/OS dataset management, JCL automation, and enterprise data operations. CC 0000 ✅
 - **[IBM Z Mainframe Dev Environment](https://github.com/AnandSundar/ibm-z-vscode-mainframe-setup)** — Connecting modern DevOps tooling to enterprise IBM Z infrastructure — VS Code · Zowe Explorer · z/OSMF · JCL · TLS · z/OS
 
 ---
