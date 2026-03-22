@@ -84,6 +84,12 @@ I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cyberse
 
 ---
 
+### Mainframe Programming - IBM Z/OS
+
+- **[IBM Z Mainframe Dev Environment](https://github.com/AnandSundar/ibm-z-vscode-mainframe-setup)** — Connecting modern DevOps tooling to enterprise IBM Z infrastructure — VS Code · Zowe Explorer · z/OSMF · JCL · TLS · z/OS
+
+---
+
 ## 🧰 Tools & Technologies
 
 ### 🤖 Agentic AI
