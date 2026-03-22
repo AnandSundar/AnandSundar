@@ -173,6 +173,23 @@ I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cyberse
   <img src="https://img.shields.io/badge/-Qualys-0072C6?style=for-the-badge&logo=qualys&logoColor=white"/>
 </div>
 
+### 🖥️ Mainframe & IBM Z/OS
+<div>
+  <img src="https://img.shields.io/badge/-COBOL-005073?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JCL-1A237E?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-REXX-37474F?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-z/OS_Assembler-4A148C?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-IBM_z/OS-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-z/OSMF-0F62FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-USS_(Unix_System_Services)-006D5B?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TSO/ISPF-880000?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Zowe_Explorer-198038?style=for-the-badge&logo=zowe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-IBM_Z_Xplore-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PDS_Datasets-5C4033?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python_on_z/OS-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VS_Code_Mainframe-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</div>
+
 ---
 
 ## 📈 GitHub Activity
