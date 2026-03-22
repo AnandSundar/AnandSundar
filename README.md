@@ -87,6 +87,7 @@ I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cyberse
 ### Mainframe Programming - IBM Z/OS
 
 
+- **[IBM Z/OS ASM TSO Debugger](https://github.com/AnandSundar/ibm-z-asm2-tso-debugger)** — <1% of engineers can do this. Now you've found one.
 - **[IBM Z/OS Fibonacci Assembler](https://github.com/AnandSundar/asm1-fibonacci-assembler-ibmz)** — I wrote code that speaks directly to a $10-billion IBM mainframe. While most devs argue about frameworks, I'm in the registers.
 - **[IBM Z/OS PDS Advanced Datasets](https://github.com/AnandSundar/pds2-zos-advanced-datasets)** — While everyone else learned Docker, I learned to run the computers that run the world." 🖥️🌍
 - **[IBM Z/OS Mainframe Scripting](https://github.com/AnandSundar/ibm-z-uss2-mainframe-scripting)** — While everyone else learned the cloud, I learned what the cloud runs on.
