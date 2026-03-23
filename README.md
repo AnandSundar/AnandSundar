@@ -65,6 +65,7 @@ I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cyberse
 ### 🛡️ GRC & Compliance Automation
 
 
+- **[TrailWarden](https://github.com/AnandSundar/TrailWarden)** — Because bad logs are the blue pill.
 - **[AuditCTL](https://github.com/AnandSundar/AuditCTL)** — AuditCTL turns your security policies from PDFs nobody reads into automated rules that run on every git push.
 - **[AWS Inactive Key Rotation Auditor](https://github.com/AnandSundar/AWS-Inactive-Key-Rotation-Audit)** — Tool that finds your stale AWS keys before an attacker does.
 - **[AWS Password Policy Auditor](https://github.com/AnandSundar/aws-password-policy-auditor)** — Compliance isn't a checklist — it's a system I engineer.
