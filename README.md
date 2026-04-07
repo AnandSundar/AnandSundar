@@ -69,7 +69,7 @@ I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cyberse
 - **[AWS GRC Evidence Collector](https://github.com/AnandSundar/aws-grc-evidence-collector)** — Automate compliance, cut costs, and stay audit-ready 24/7.
 - **[Card Guardian](https://github.com/AnandSundar/cardguardian)** — Award-winning PCI DSS compliance toolkit - Don't let auditors cry (by passing quickly)
 - **[CyberGRC Hub - TOYOTA](https://github.com/AnandSundar/cybergrc-hub)** — TISAX-ready. Risk-aware. Production-grade.
-- **[AWS Cloud Encryption Evidence](https://github.com/AnandSundar/cloud-encryption-evidence-lab)** — Turning a 3-day audit scramble into a 5-minute command.
+- **[AWS Cloud Encryption Evidence](https://github.com/AnandSundar/aws-encryption-evidence-lab)** — Turning a 3-day audit scramble into a 5-minute command.
 - **[TrailWarden - CloudTrail Validator](https://github.com/AnandSundar/TrailWarden)** — Because bad logs are the blue pill.
 - **[AuditCTL](https://github.com/AnandSundar/AuditCTL)** — AuditCTL turns your security policies from PDFs nobody reads into automated rules that run on every git push.
 - **[AWS Inactive Key Rotation Auditor](https://github.com/AnandSundar/AWS-Inactive-Key-Rotation-Audit)** — Tool that finds your stale AWS keys before an attacker does.
