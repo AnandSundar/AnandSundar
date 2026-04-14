@@ -35,13 +35,13 @@
 
 I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cybersecurity**, **Compliance Engineering**, and **Mainframe Development**. My work focuses on four core areas:
 
-🤖 &nbsp;**AI Security** — Securing LLMs and multi-agent systems against prompt injection, model poisoning, and adversarial attacks using OWASP LLM Top 10 frameworks.
+🤖 &nbsp;**AI Security** — Hardening LLMs and multi-agent systems against prompt injection, model poisoning, and adversarial attacks using the OWASP LLM Top 10 as the playbook.
 
-🛡️ &nbsp;**GRC Automation** — Replacing manual audit busywork with intelligent pipelines that monitor controls, harvest evidence, and flag compliance drift across NIST, SOC 2, ISO 27001, GDPR, HIPAA, PCI-DSS, and CMMC.
+🛡️ &nbsp;**GRC Automation** — Writing the pipelines that replace manual audit busywork with continuous control monitoring, automated evidence harvesting, and real-time compliance drift detection — across NIST, SOC 2, ISO 27001, GDPR, HIPAA, PCI-DSS, and CMMC.
 
 ⚙️ &nbsp;**Security Engineering** — Writing the automation that patches vulnerabilities, hunts threats, and locks down cloud environments — using Python, Go, PowerShell, and Bash.
 
-🖥️ &nbsp;**Mainframe Engineering** — Programming IBM z/OS at the metal level — COBOL, Assembler, JCL, REXX, and Python on Z — on the platform that processes over $10 trillion in transactions daily. While most engineers debate frameworks, I'm in the registers.
+🖥️ &nbsp;**Mainframe Engineering** — Programming IBM z/OS at the metal level — COBOL, Assembler, JCL, REXX, and Python on Z — on the platform that quietly processes over $10 trillion in transactions every day. While most engineers debate frameworks, I'm in the registers.
 
 
 ---
