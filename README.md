@@ -70,9 +70,9 @@ I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cyberse
 - **[AWS Inactive Key Rotation Auditor](https://github.com/AnandSundar/AWS-Inactive-Key-Rotation-Audit)** — Tool that finds your stale AWS keys before an attacker does.
 - **[AWS Password Policy Auditor](https://github.com/AnandSundar/aws-password-policy-auditor)** — Compliance isn't a checklist — it's a system I engineer.
 - **[AWS Automated Access Review](https://github.com/AnandSundar/aws_automated_access_review)** — Automated IAM access reviews, AI-powered reports, deployed in one command.
+- **[AWS Cloud Encryption Evidence](https://github.com/AnandSundar/aws-encryption-evidence-lab)** — Turning a 3-day audit scramble into a 5-minute command.
 - **[Card Guardian](https://github.com/AnandSundar/cardguardian)** — Award-winning PCI DSS compliance toolkit - Don't let auditors cry (by passing quickly)
 - **[CyberGRC Hub - TOYOTA](https://github.com/AnandSundar/cybergrc-hub)** — TISAX-ready. Risk-aware. Production-grade.
-- **[AWS Cloud Encryption Evidence](https://github.com/AnandSundar/aws-encryption-evidence-lab)** — Turning a 3-day audit scramble into a 5-minute command.
 - **[TrailWarden - CloudTrail Validator](https://github.com/AnandSundar/TrailWarden)** — Because bad logs are the blue pill.
 - **[AuditCTL](https://github.com/AnandSundar/AuditCTL)** — AuditCTL turns your security policies from PDFs nobody reads into automated rules that run on every git push.
 - **[Trust Ledger - 1Password](https://github.com/AnandSundar/trust-ledger)** — Continuous Compliance Engine for Modern Infrastructure
