@@ -65,6 +65,7 @@ I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cyberse
 ### 🛡️ GRC & Compliance Automation
 
 
+- **[NIST RAG Compliance Assistant](https://github.com/AnandSundar/nist-rag-compliance-assistant)** — Ask NIST 800-53 anything. Get answers, not hallucinations.
 - **[AWS Least Privilege Compliance Checker](https://github.com/AnandSundar/aws-least-privilege-compliance-checker)** — Audit AWS IAM policies to enforce least-privilege access
 - **[AWS GRC Evidence Collector](https://github.com/AnandSundar/aws-grc-evidence-collector)** — Automate compliance, cut costs, and stay audit-ready 24/7.
 - **[AWS Inactive Key Rotation Auditor](https://github.com/AnandSundar/AWS-Inactive-Key-Rotation-Audit)** — Tool that finds your stale AWS keys before an attacker does.
