@@ -112,6 +112,12 @@ I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cyberse
 
 ---
 
+### Software Engineering
+
+
+- **[Offer Negotiation Simulator](https://github.com/AnandSundar/Offer-Negotiation-Simulator)** — Negotiate like a boss. Walk away with more.
+
+---
 ## 🧰 Tools & Technologies
 
 ### 🤖 Agentic AI
