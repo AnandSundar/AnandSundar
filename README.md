@@ -95,6 +95,10 @@ I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cyberse
 
 ---
 
+### 📝 Open Source Contributions
+- [KAI OS](https://github.com/morning-verlu/KAI/pull/30) - 60-second local tour transcript, zero-install architecture mapping (Agent = Process, Tool = Syscall), markdown product proof rendering
+---
+
 ### Mainframe Programming - IBM Z/OS
 
 
