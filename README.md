@@ -97,6 +97,7 @@ I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cyberse
 
 ### 📝 Open Source Contributions
 - [KAI OS](https://github.com/morning-verlu/KAI/pull/30) - 60-second local tour transcript, zero-install architecture mapping (Agent = Process, Tool = Syscall), markdown product proof rendering
+- [GRCEngClub/claude-grc-engineering](https://github.com/GRCEngClub/claude-grc-engineering/pull/67) - US-FINRA framework plugin stub, expanded AI-driven compliance architecture for financial regulatory standards
 ---
 
 ### Mainframe Programming - IBM Z/OS
