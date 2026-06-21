@@ -50,7 +50,7 @@ I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cyberse
 
 ### 🤖 Agentic AI Security
 
-
+- **[mcp-socd](https://github.com/AnandSundar/mcp-socd)** - Default-deny stdio proxy for production AI agents, mediating MCP tool execution against strict SOC-action catalogs
 - **[Email Triage Agent](https://github.com/AnandSundar/email-triage-agent)** — Inbox zero, finally — an autonomous email agent that handles the noise so you can focus on what matters.
 - **[TaxFlow AI](https://github.com/AnandSundar/TaxFlow-AI)** — AI-powered tax document analysis that automatically processes, analyzes, and extracts insights from financial documents.
 - **[MindBridge AI Operations Hub](https://github.com/AnandSundar/MindBridge-AI-Operations-Hub)** — Automating the busywork of mental healthcare — so clinicians can focus on people, not paperwork.
