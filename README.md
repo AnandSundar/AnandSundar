@@ -100,6 +100,7 @@ I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cyberse
 - **[KAI OS PR #30](https://github.com/morning-verlu/KAI/pull/30)** - 60-second local tour transcript, zero-install architecture mapping (Agent = Process, Tool = Syscall), markdown product proof rendering
 - **[GRCEngClub/claude-grc-engineering](https://github.com/GRCEngClub/claude-grc-engineering/pull/67)** - US-FINRA framework plugin stub, expanded AI-driven compliance architecture for financial regulatory standards
 - **[wmux PR #280](https://github.com/openwong2kim/wmux/pull/280)** - Agent-to-agent (A2A) channel architecture, implemented U1 domain types and underlying state persistence layer
+- **[vigil365 PR #2](https://github.com/sameerk27/vigil365/pull/2)** - Per-alert snooze controls and silent auto-resolve logic for alerting workflows
 ---
 
 ### Mainframe Programming - IBM Z/OS
