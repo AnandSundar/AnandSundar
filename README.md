@@ -122,7 +122,7 @@ I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cyberse
 
 ### Software Engineering
 
-
+- **[boris-loop](https://github.com/AnandSundar/boris-loop)** - Starter kit for the loops over prompts pattern, distilled into ~100 lines of runnable Python
 - **[Offer Negotiation Simulator](https://github.com/AnandSundar/Offer-Negotiation-Simulator)** — Negotiate like a boss. Walk away with more.
 
 ---
