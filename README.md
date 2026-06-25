@@ -96,6 +96,7 @@ I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cyberse
 ---
 
 ### 📝 Open Source Contributions
+- **[FckSignups PR #213](https://github.com/BraveOPotato/FckSignups/pull/213)** - Added Simple Icons to enhance signup UI clarity and visual consistency
 - **[Agent Beacon PR #237](https://github.com/Asymptote-Labs/agent-beacon/pull/237)** - Added 18 threat-detection rules across 6 categories, enhancing agent telemetry coverage and detection fidelity
 - **[AetherSDR PR #3709](https://github.com/aethersdr/AetherSDR/pull/3709)** - AppStream metadata refinement and release packaging, ensuring strict specification compliance for Flathub distribution
 - **[KAI OS PR #30](https://github.com/morning-verlu/KAI/pull/30)** - 60-second local tour transcript, zero-install architecture mapping (Agent = Process, Tool = Syscall), markdown product proof rendering
