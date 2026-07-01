@@ -97,6 +97,7 @@ I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cyberse
 
 ### 📝 Open Source Contributions
 - **[Axios PR #11029](https://github.com/axios/axios/pull/11029)** - Network proxy bypass fix, canonicalized edge-case IPv4 formats (shorthand/octal/hex) to ensure robust no_proxy evaluation
+- **[opentag PR #58](https://github.com/amplifthq/opentag/pull/58)** - Populated owner/repo metadata to fix project-target binding lookup for GitLab integrations
 - **[FckSignups PR #213](https://github.com/BraveOPotato/FckSignups/pull/213)** - Added Simple Icons to enhance signup UI clarity and visual consistency
 - **[Agent Beacon PR #237](https://github.com/Asymptote-Labs/agent-beacon/pull/237)** - Added 18 threat-detection rules across 6 categories, enhancing agent telemetry coverage and detection fidelity
 - **[AetherSDR PR #3709](https://github.com/aethersdr/AetherSDR/pull/3709)** - AppStream metadata refinement and release packaging, ensuring strict specification compliance for Flathub distribution
