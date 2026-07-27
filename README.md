@@ -62,6 +62,8 @@ I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cyberse
 - **[wmux PR #280](https://github.com/openwong2kim/wmux/pull/280)** - Agent-to-agent (A2A) channel architecture, implemented U1 domain types and underlying state persistence layer
 - **[vigil365 PR #2](https://github.com/sameerk27/vigil365/pull/2)** - Per-alert snooze controls and silent auto-resolve logic for alerting workflows
 
+---
+
 ### 🤖 Agentic AI Security
 
 - **[Agent Firewall](https://github.com/AnandSundar/mcp-socd)** - Default-deny stdio proxy for production AI agents, mediating MCP tool execution against strict SOC-action catalogs
