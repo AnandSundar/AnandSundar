@@ -48,6 +48,20 @@ I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cyberse
 
 ## 🚀 Project Showcase
 
+
+### 📝 Open Source Contributions (SWE)
+- **[Axios PR #11029](https://github.com/axios/axios/pull/11029)** - Network proxy bypass fix, canonicalized edge-case IPv4 formats (shorthand/octal/hex) to ensure robust no_proxy evaluation
+- **[Eval Harness PR #41](https://github.com/nano-step/eval-harness/pull/41)** - LangGraph Node runner implementation (U1-U5), enabling structured evaluation workflows for issue #36
+- **[opentag PR #58](https://github.com/amplifthq/opentag/pull/58)** - Populated owner/repo metadata to fix project-target binding lookup for GitLab integrations
+- **[FckSignups PR #213](https://github.com/BraveOPotato/FckSignups/pull/213)** - Added Simple Icons to enhance signup UI clarity and visual consistency
+- **[Agent Beacon PR #237](https://github.com/Asymptote-Labs/agent-beacon/pull/237)** - Added 18 threat-detection rules across 6 categories, enhancing agent telemetry coverage and detection fidelity
+- **[AetherSDR PR #3709](https://github.com/aethersdr/AetherSDR/pull/3709)** - AppStream metadata refinement and release packaging, ensuring strict specification compliance for Flathub distribution
+- **[KAI OS PR #30](https://github.com/morning-verlu/KAI/pull/30)** - 60-second local tour transcript, zero-install architecture mapping (Agent = Process, Tool = Syscall), markdown product proof rendering
+- **[GRCEngClub/claude-grc-engineering PR #67](https://github.com/GRCEngClub/claude-grc-engineering/pull/67)** - US-FINRA framework plugin stub, expanded AI-driven compliance architecture for financial regulatory standards
+- **[GRCEngClub/claude-grc-engineering PR #89](https://github.com/GRCEngClub/claude-grc-engineering/pull/89)** - HIPAA Security Rule framework plugin (Reference depth), expanding AI-driven compliance automation for healthcare data
+- **[wmux PR #280](https://github.com/openwong2kim/wmux/pull/280)** - Agent-to-agent (A2A) channel architecture, implemented U1 domain types and underlying state persistence layer
+- **[vigil365 PR #2](https://github.com/sameerk27/vigil365/pull/2)** - Per-alert snooze controls and silent auto-resolve logic for alerting workflows
+
 ### 🤖 Agentic AI Security
 
 - **[Agent Firewall](https://github.com/AnandSundar/mcp-socd)** - Default-deny stdio proxy for production AI agents, mediating MCP tool execution against strict SOC-action catalogs
@@ -92,21 +106,7 @@ I sit at the intersection of **Software Engineering**, **Agentic AI**, **Cyberse
 - **[Programmatic Vulnerability Remediations](https://github.com/AnandSundar/programmatic-vulnerability-remediations)** — PowerShell & Bash scripts for automated, repeatable vulnerability patching at scale
 - **[Threat Hunt: Tor Browser Usage](https://github.com/AnandSundar/threat-hunting-scenario-tor)** — SIEM-driven hunt detecting dark web tool usage across corporate endpoints
 - **[Threat Hunt: Cargo Hold](https://github.com/AnandSundar/Threat-Hunt-Cargo-Hold)** — Advanced behavioral detection simulation designed to expose lateral movement patterns
-
----
-
-### 📝 Open Source Contributions
-- **[Axios PR #11029](https://github.com/axios/axios/pull/11029)** - Network proxy bypass fix, canonicalized edge-case IPv4 formats (shorthand/octal/hex) to ensure robust no_proxy evaluation
-- **[Eval Harness PR #41](https://github.com/nano-step/eval-harness/pull/41)** - LangGraph Node runner implementation (U1-U5), enabling structured evaluation workflows for issue #36
-- **[opentag PR #58](https://github.com/amplifthq/opentag/pull/58)** - Populated owner/repo metadata to fix project-target binding lookup for GitLab integrations
-- **[FckSignups PR #213](https://github.com/BraveOPotato/FckSignups/pull/213)** - Added Simple Icons to enhance signup UI clarity and visual consistency
-- **[Agent Beacon PR #237](https://github.com/Asymptote-Labs/agent-beacon/pull/237)** - Added 18 threat-detection rules across 6 categories, enhancing agent telemetry coverage and detection fidelity
-- **[AetherSDR PR #3709](https://github.com/aethersdr/AetherSDR/pull/3709)** - AppStream metadata refinement and release packaging, ensuring strict specification compliance for Flathub distribution
-- **[KAI OS PR #30](https://github.com/morning-verlu/KAI/pull/30)** - 60-second local tour transcript, zero-install architecture mapping (Agent = Process, Tool = Syscall), markdown product proof rendering
-- **[GRCEngClub/claude-grc-engineering PR #67](https://github.com/GRCEngClub/claude-grc-engineering/pull/67)** - US-FINRA framework plugin stub, expanded AI-driven compliance architecture for financial regulatory standards
-- **[GRCEngClub/claude-grc-engineering PR #89](https://github.com/GRCEngClub/claude-grc-engineering/pull/89)** - HIPAA Security Rule framework plugin (Reference depth), expanding AI-driven compliance automation for healthcare data
-- **[wmux PR #280](https://github.com/openwong2kim/wmux/pull/280)** - Agent-to-agent (A2A) channel architecture, implemented U1 domain types and underlying state persistence layer
-- **[vigil365 PR #2](https://github.com/sameerk27/vigil365/pull/2)** - Per-alert snooze controls and silent auto-resolve logic for alerting workflows
+  
 ---
 
 ### Mainframe Programming - IBM Z/OS
